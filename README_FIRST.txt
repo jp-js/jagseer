@@ -4,9 +4,10 @@
 2. After Download run this command
  	composer update OR composer install
 
-3. create database name as you like
+3. create .env file and add configure your database name, SMTP username and password as well as TWILIO username and password
 
-4. create .env file and add configure your database name, SMTP username and password as well as TWILIO username and password
+4. create database name as you like
+
 
 5. After Run migration 
 
